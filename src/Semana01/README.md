@@ -1,6 +1,6 @@
 # Semana 1 - Experiências Imersivas com JavaScript
 
-Ao longo desta semana, vamos estudar como utilizar as ferramentas de JavaScript para construir experiências imersivas com o navegador. Com este conhecimento, expera-se que os estudantes possam compreender os princípios necessários para construir aplicações utilizando o navegador como forma de exibição do conteúdo planejado.
+Ao longo desta semana, vamos estudar como utilizar as ferramentas de JavaScript para construir experiências imersivas com o navegador. Com este conhecimento, espera-se que os estudantes possam compreender os princípios necessários para construir aplicações utilizando o navegador como forma de exibição do conteúdo planejado.
 
 Compreender a diferença entre está ferramenta e as demais, como Unity e Unreal, possibilita que os estudantes possam dimensionar corretamente o escopo das soluções elaboradas. É importante perceber também as limitações que está escolha traz ao projeto.
 
