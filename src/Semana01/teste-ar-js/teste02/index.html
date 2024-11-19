@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Básico AR</title>
+    <!-- Incluir as bibliotecas do AR.js e AFrame.js -->
+     <!-- A-Frame itself -->
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+    <!-- AR.js A-Frame components -->
+    <script type='text/javascript' src='https://raw.githack.com/AR-js-org/AR.js/3.4.5/aframe/build/aframe-ar.js'></script>
+</head>
+<body style="margin: 0px; overflow: hidden;">
+    <!-- Elemento do AFrame para trazer uma cena -->
+    <!-- Desliga os controles de VR, para aplicação apenas de AR -->
+    <a-scene vr-mode-ui="enabled: false" embedded arjs="debugUIEnabled: false;">
+
+        <!-- Trazendo assets ao projeto -->
+        <a-assets>
+            <img id="monstro" src="https://attic.sh/vzn4r86q35u4mrzbe7dyuh79ts8u"/>
+        </a-assets>
+
+        <!-- Primeiro componente que deve estar na realidade aumentada: o marcador -->
+        <a-marker present="hiro">
+            <!-- Por padrão, sem rotação, a imagem fica projeta perpendicular ao marcador -->
+            <a-image width="1" height="1" rotation="-90 0 0" position="0 0 0" src="#monstro"></a-image>
+        </a-marker>
+
+        <!-- Camera do usuário -->
+        <!-- Está sintáxe permite trabalhar com multiplos marcadores -->
+        <a-entity camera>
+
+        </a-entity>
+    </a-scene>
+</body>
+</html>
