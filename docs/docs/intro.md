@@ -1,10 +1,16 @@
 ---
 sidebar_position: 1
+title: Introdução ao Módulo
+slug: /
 ---
 
-# Tutorial Intro
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Experiências Imersivas
+
+Ola Mundo!
 
 ## Getting Started
 
