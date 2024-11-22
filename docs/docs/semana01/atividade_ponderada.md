@@ -1,7 +1,6 @@
 ---
 sidebar_position: 4
 title: Atividade Ponderada
-slug: /
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
