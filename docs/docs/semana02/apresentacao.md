@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: semana02
+title: Apresentação
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
