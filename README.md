@@ -64,5 +64,6 @@ Para saber mais sobre o Docusaurus, recomendo o vídeo abaixo:
 * 16/12 - Murilo
 * 17/12 - Guilherme
 * 18/12 - Murilo
-* 19/12 - Murilo/Guilherme/Kizzy - **Showcase dos projetos desenvolvidos**
+* 19/12 - Murilo/Guilherme/Kizzy
+* **Entrega da semana 5:** Showcase dos projetos desenvolvidos
 
