@@ -7,7 +7,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-## M12-B - Experiências Imersivas - Semana 2
+## Experiências Imersivas - Semana 2
 
 ### Instrução 1 - Painel de referências e wireframes (Prof.Guilherme)
 Com as questões e problemas identificados, mapeados e em processo de amadurecimento, iniciaremos a concepção criativa da experiência em VR, reunindo e combinando referências mecânicas, estéticas e de usabilidade. A partir disso, trabalharemos nos primeiros esboços da experiência, incluindo arquitetura da informação, wireframes e rascunhos de level design (se aplicável).
