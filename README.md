@@ -21,11 +21,11 @@ Para saber mais sobre o Docusaurus, recomendo o vídeo abaixo:
 Avaliação Semanais - Apresentação individual do que foi desenvolvido. Entrega do repositório. PLANO RESERVA: gravar um vídeo explicando o que foi feito com a demonstração. Entrega até o final da aula do dia.
 
 Semana 1 - 10 pontos - AFrame JS
-18/11 - Guilherme (PUC e Sírio(confirmar) e UnitedGames) - Apresentação Projeto
-19/11 - Murilo (empresa Árvore)
-20/11 - Feriado
-21/11 - Murilo
-22/11 - Murilo (Entrega - 5p: AFrame; 5p:Projeto Final - Mapeamento do problema e o conceito inicial)
+* 18/11 - Guilherme (PUC e Sírio(confirmar) e UnitedGames) - Apresentação Projeto
+* 19/11 - Murilo (empresa Árvore)
+* 20/11 - Feriado
+* 21/11 - Murilo
+* 22/11 - Murilo (Entrega - 5p: AFrame; 5p:Projeto Final - Mapeamento do problema e o conceito inicial)
 
 Semana 2 - 10 pontos - Unreal MetaHuman
 25/11 - Guilherme
