@@ -14,7 +14,7 @@ Os humanos virtuais em RV estão no centro de uma revolução tecnológica que m
 ## Objetivo
 Nosso objetivo nesta atividade  é criar uma experiência imersiva com um humano digital. Ao final desta semana, cada aluno deverá ter criado e apresentado uma animação completa de um humano digital, incluindo aparência personalizada, justificativa de design, integração de áudio e animação, e deploy funcional no Meta Quest para demonstração prática em realidade virtual.
 
-### Parte 1: Contextualização, Descrição e Justificativa (até terça)
+### Parte 1: Contextualização, Descrição e Justificativa 
 1. Defina o propósito do humano virtual
 - Escolha uma área de aplicação (e.g., educador em RV, personagem para um jogo, assistente virtual em uma loja).
 2. Elabore uma descrição detalhada do humano virtual:
@@ -24,14 +24,14 @@ Nosso objetivo nesta atividade  é criar uma experiência imersiva com um humano
 - Explique como a aparência do avatar reflete o contexto escolhido.
 - Considere elementos como idade, gênero, tom de pele, vestuário e expressões faciais.
 
-### Parte 2: Criação no MetaHuman Creator (até quarta)
+### Parte 2: Criação no MetaHuman Creator 
 1. Acesse o [MetaHuman Creator](https://metahuman.unrealengine.com/mhc)
 2. Personalize o avatar:
 - Ajuste a aparência com base no propósito definido.
 - Explore as expressões faciais básicas na interface.
 - Salve e exporte o MetaHuman para integração futura.
 
-### Parte 3: Idealizando a animação (até quarta)
+### Parte 3: Idealizando a animação 
 1. Crie um roteiro para sua animação. Sugestão: crie um texto de apresentação do seu humano virtual (Você pode utilizar IA Generativa para isso)
 2. Grave ou gere o áudio da sua interação.
 - Utilize Bark ou outra ferramenta de texto para fala, se necessário. Link: https://github.com/suno-ai/bark?tab=readme-ov-file
@@ -39,11 +39,12 @@ Nosso objetivo nesta atividade  é criar uma experiência imersiva com um humano
 ### Parte 4: Integração de Áudio e Finalização (até quinta)
 1. Escolha ferramenta de animação:
 - Unreal Live Link Face: Para capturar movimentos faciais em tempo real (apenas iOS)
-- Audio para animação (nativo na versão 5.5)
+- Audio2Face
+- MetaHuman Animator (nativo na versão 5.5 - apenas Windows)
 2. Prepare o áudio e sincronize com o avatar. Utilize Unreal Engine para ajustar a sincronia.
 3. Exporte seu avatar animado.
 
-### Parte 5: Deploy no Meta Quest (Opcional)
+### Parte 5: Deploy no Meta Quest
 1. Configuração do projeto no Unreal Engine:
 - Importe o MetaHuman criado e animado para um projeto configurado para RV.
 2. Ajustes para Meta Quest:
@@ -51,10 +52,19 @@ Nosso objetivo nesta atividade  é criar uma experiência imersiva com um humano
 3. Faça o deploy final para um dispositivo Meta Quest.
 4. Demonstração do avatar em RV:
 - Verifique como o humano virtual aparece e se comporta no ambiente de realidade virtual.
-- 
+  
 ### Parte 6: Apresentação dos resultados (Sexta)
 
-**Entrega:** Adicione um repositório no [link](https://docs.google.com/spreadsheets/d/1chnZkOykV0J4RPjyKz_dJgaSmmI0E4zCAlD7rvsJgz0/edit?usp=sharing). O seu repositório deve conter um vídeo demo e um README documentando todas as partes da atividade ralizada.
+**Entrega em Repositório no Github**
+Seu repositório deve conter um README documentando todas as partes da atividade realizada:
+1. Contextualização, Descrição e Justificativa
+2. MetaHuman Personalizado
+  - Prints dro resultado
+  - Arquivo .mhb gerado no MetaHuman Creator
+3. Vídeo de animação com áudio integrado (Pontuação Extra)
+4. Resultado do Deploy no MetaQuest (Pontuação Extra)
+
+Adicione seu repositório no [link](https://docs.google.com/spreadsheets/d/1chnZkOykV0J4RPjyKz_dJgaSmmI0E4zCAlD7rvsJgz0/edit?usp=sharing).
 
 
 # Atividade Ponderada Equipe Semana 2
