@@ -59,7 +59,7 @@ Nosso objetivo nesta atividade  é criar uma experiência imersiva com um humano
 Seu repositório deve conter um README documentando todas as partes da atividade realizada:
 1. Contextualização, Descrição e Justificativa
 2. MetaHuman Personalizado
-  - Prints dro resultado
+  - Prints do resultado
   - Arquivo .mhb gerado no MetaHuman Creator
 3. Vídeo de animação com áudio integrado (Pontuação Extra)
 4. Resultado do Deploy no MetaQuest (Pontuação Extra)
