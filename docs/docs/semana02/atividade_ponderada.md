@@ -55,7 +55,7 @@ Nosso objetivo nesta atividade  é criar uma experiência imersiva com um humano
   
 ### Parte 6: Apresentação dos resultados (Sexta)
 
-**Entrega em Repositório no Github**
+### Entrega em Repositório no Github
 Seu repositório deve conter um README documentando todas as partes da atividade realizada:
 1. Contextualização, Descrição e Justificativa
 2. MetaHuman Personalizado
