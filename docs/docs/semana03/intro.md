@@ -28,3 +28,13 @@ O material das instruções vou disponibilizando por aqui para vocês.
 ***EM CONSTRUÇÃO***
 
 <img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/>
+
+### Referências Interessantes para Assets
+
+Pessoal essas são alguns referências interessantes para utilização de Assets de modelos:
+
+- https://huggingface.co/tasks/text-to-3d
+- https://www.meshy.ai/workspace
+- https://build.nvidia.com/shutterstock/edify-3d
+- https://developers.meta.com/horizon/downloads/package/oculus-openxr-mobile-sdk/
+- https://sketchfab.com/3d-models
