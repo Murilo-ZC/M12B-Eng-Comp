@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 # Atividade Ponderada Individual Semana 3 - Experiências Imersivas
 
 Pessoal a atividade dessa semana está dividida em alguns passos. Peço que vocês observem cada um deles e os seus respectivos baremas. Qualquer dúvida não deixem de perguntar aqui ou em nossas interações na instituição ou ainda pelo slack!
-O acompanhamento individual de cada uma das etapas da atividade três pode ser visto nessa planilha: link.
+O acompanhamento individual de cada uma das etapas da atividade três pode ser visto nessa planilha: [link](https://docs.google.com/spreadsheets/d/1chnZkOykV0J4RPjyKz_dJgaSmmI0E4zCAlD7rvsJgz0/edit?usp=sharing).
 
 ## Dia 1 - Segunda-feira
 
