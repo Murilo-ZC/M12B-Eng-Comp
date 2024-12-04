@@ -36,9 +36,9 @@ Barema:
 
 ## Dia 2 - Terça-feira
 
-***EM CONSTRUÇÃO***
+Acompanhamento e Pitch com a Empresa: [United Games](https://unitedgames.com.br/site/).
 
-<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/>
+<img style={{display:"block", marginLeft: "auto", marginRight: "auto", backgroundColor:"#c0c0c0", padding: "5px", borderRadius:"5px"}} alt="United Games BR Logo" src="https://advergames.unitedgames.com.br/wp-content/uploads/2023/03/Logotipo-Branco-1-2048x513.png"/>
 
 ## Dia 3 - Quarta-feira
 

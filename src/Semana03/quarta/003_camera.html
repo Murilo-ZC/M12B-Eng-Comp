@@ -1,0 +1,41 @@
+<!-- Adicionando um plano na interação - A-Frame -->
+ <!-- Texturas de: https://texturelabs.org/ -->
+ <html>
+    <head>
+      <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+    </head>
+    <body>
+      <a-scene>
+          <!-- Gerenciamento de Assets do A-Frame -->
+           <a-assets>
+                <img id="chao" src="./texturas/Texturelabs_Stone_168L.jpg"/>
+           </a-assets>
+
+
+           <a-plane
+                material="src:#chao"
+                rotation="-90 0 0"
+                repeat="5 5"
+                scale="10 10 1">
+           </a-plane>
+
+           <a-box color="#00AA00" height="2" depth="2" position="4 1 2">
+           </a-box>
+
+           <a-cylinder color="#AA0000" radius="0.5" height="2" position="-4 1 2">
+           </a-cylinder>
+
+          <!-- No VR - 0,0,0 -->
+          <!-- No Desktop - 0,1.6, 0 -->
+           <!-- Posicionamos a camera utilizando uma entidade -->
+           <a-entity position="3 0 3">
+            <a-camera id="camera1" active="true"></a-camera>
+           </a-entity>
+
+           <a-entity position="6 0 3">
+            <a-camera id="camera2" active="false"></a-camera>
+           </a-entity>
+           
+      </a-scene>
+    </body>
+  </html>

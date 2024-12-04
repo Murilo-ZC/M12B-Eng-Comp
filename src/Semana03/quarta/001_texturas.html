@@ -1,0 +1,29 @@
+<!-- Primeiro Exemplo - Texturas dentro do aframe -->
+ <!-- Texturas de: https://texturelabs.org/ -->
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+        <!-- Gerenciamento de Assets do A-Frame -->
+         <a-assets>
+            <img id="textura-1" src="./texturas/TCom_Rock_CliffLayered_header.jpg" />
+            <img id="textura-2" src="./texturas/TCom_Scifi_Panel_header.jpg" />
+         </a-assets>
+        <a-box 
+            position="2 2 -9" 
+            rotation="0 0 0" 
+            width="4" height="4" depth="4"
+            src="#textura-1">
+        </a-box>
+        <a-box
+            position="-2 2 -9" 
+            rotation="0 0 0" 
+            width="4" height="4" depth="4"
+            src="#textura-2">
+        </a-box>
+      
+    </a-scene>
+  </body>
+</html>

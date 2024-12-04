@@ -21,6 +21,12 @@ O que vamos desenvolver, ao longo desta semana:
 Nosso objetivo será:
 - Conhecer a Unity para desenvolvimento de aplicações VR.
 
+## ATUALIZAÇÃO
+
+<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://i.pinimg.com/originals/86/ac/90/86ac9098393e8b3b35eed58aeab20d5a.gif"/>
+
+Pessoal por uma questão de aproveitamento de horário e termos um desenvolvimento mais liso com o Unity, vamos inverter a semana 5 com a semana 3, quanto os entregáveis. Vou ajustar os baremas da entrega individual desta semana. Me procurem se tiverem alguma dúvida para conversarmos.
+
 ### Material
 
 O material das instruções vou disponibilizando por aqui para vocês. 
@@ -38,3 +44,4 @@ Pessoal essas são alguns referências interessantes para utilização de Assets
 - https://build.nvidia.com/shutterstock/edify-3d
 - https://developers.meta.com/horizon/downloads/package/oculus-openxr-mobile-sdk/
 - https://sketchfab.com/3d-models
+- https://poly.pizza/u/Poly%20by%20Google

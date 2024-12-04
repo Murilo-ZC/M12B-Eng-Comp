@@ -1,0 +1,29 @@
+<!-- Adicionando um plano na interação - A-Frame -->
+ <!-- Texturas de: https://texturelabs.org/ -->
+ <html>
+    <head>
+      <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+    </head>
+    <body>
+      <a-scene>
+          <!-- Gerenciamento de Assets do A-Frame -->
+           <a-assets>
+                <img id="chao" src="./texturas/Texturelabs_Stone_168L.jpg"/>
+                <img id="ceu" src="./texturas/pexels-francesco-ungaro-281260.jpg" />
+           </a-assets>
+
+           <!-- Sky por default é um esfera de raio 10000 -->
+           <a-sky src="#ceu"
+              radius="50"
+              side="double">
+           </a-sky>
+
+           <a-plane
+                material="src:#chao"
+                rotation="-90 0 0"
+                repeat="50 50"
+                scale="100 100 1">
+           </a-plane>
+      </a-scene>
+    </body>
+  </html>
