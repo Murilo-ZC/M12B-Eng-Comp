@@ -42,9 +42,26 @@ Acompanhamento e Pitch com a Empresa: [United Games](https://unitedgames.com.br/
 
 ## Dia 3 - Quarta-feira
 
+<!-- ***EM CONSTRUÇÃO***
+
+<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/> -->
+
+- Portar a experiência do Unity para o A-Frame. Trazer a experiência que estava sendo executada no Unity para o ambiente do A-Frame.
+
+Esta etapa da atividade tem peso *0,5*. Vocês não perdem a experiência realizada no Unity. Esse programa deve possuir um asset qualquer a escolha do usuário durante o desenvolvimento. Adicionar no repositório o que foi desenvolvido e um vídeo de sua navegação utilizando o VR.
+
+Barema:
+
 ***EM CONSTRUÇÃO***
 
 <img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/>
+
+<!-- | Critério      | Pontuação | Descrição                                      |
+|---------------|-----------|-----------------------------------------------|
+| Não deu largada   | 0,0 até 4,0         | Não iniciou a atividade. Ou desenvolveu apenas as interações básicas esperadas para ela, como copiar um template.    |
+| No caminho        | 4,1 até 7,0         | Iniciou a atividade, criou o projeto e instalou o Unity. Faltou criar a aplicação com os assets necessários.         |
+| Chegou lá         | 7,1 até 9,0         | Além de instalar o Unity corretamente, documentou corretamente a aplicação e fez sua implementação com assets novos. |
+| Foi mais longe    | 9,1 até 10,0        | Fez a implementação de uma animação já no VR e documentou o processo.                                                | -->
 
 ## Dia 4 - Quinta-feira
 
