@@ -21,11 +21,17 @@ O que vamos desenvolver, ao longo desta semana:
 Nosso objetivo será:
 - Conhecer a Unity para desenvolvimento de aplicações VR.
 
-## ATUALIZAÇÃO
+## ATUALIZAÇÃO 1
 
 <img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://i.pinimg.com/originals/86/ac/90/86ac9098393e8b3b35eed58aeab20d5a.gif"/>
 
 Pessoal por uma questão de aproveitamento de horário e termos um desenvolvimento mais liso com o Unity, vamos inverter a semana 5 com a semana 3, quanto os entregáveis. Vou ajustar os baremas da entrega individual desta semana. Me procurem se tiverem alguma dúvida para conversarmos.
+
+## ATUALIZAÇÃO 2
+
+<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://i.pinimg.com/originals/86/ac/90/86ac9098393e8b3b35eed58aeab20d5a.gif"/>
+
+A entrega do projeto de som ficou para segunda-feira! Logo amanhã (sexta), não teremos entrega com apresentação, vamos ter desenvolvimento normalmente.
 
 ### Material
 

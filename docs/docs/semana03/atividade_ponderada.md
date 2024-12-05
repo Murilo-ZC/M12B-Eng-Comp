@@ -52,22 +52,33 @@ Esta etapa da atividade tem peso *0,5*. Vocês não perdem a experiência realiz
 
 Barema:
 
-***EM CONSTRUÇÃO***
+<!-- ***EM CONSTRUÇÃO***
 
-<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/>
+<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/> -->
 
-<!-- | Critério      | Pontuação | Descrição                                      |
+| Critério      | Pontuação | Descrição                                      |
 |---------------|-----------|-----------------------------------------------|
 | Não deu largada   | 0,0 até 4,0         | Não iniciou a atividade. Ou desenvolveu apenas as interações básicas esperadas para ela, como copiar um template.    |
-| No caminho        | 4,1 até 7,0         | Iniciou a atividade, criou o projeto e instalou o Unity. Faltou criar a aplicação com os assets necessários.         |
-| Chegou lá         | 7,1 até 9,0         | Além de instalar o Unity corretamente, documentou corretamente a aplicação e fez sua implementação com assets novos. |
-| Foi mais longe    | 9,1 até 10,0        | Fez a implementação de uma animação já no VR e documentou o processo.                                                | -->
+| No caminho        | 4,1 até 7,0         | Iniciou a atividade, criou o projeto e apenas seguiu os passos desenvolvidos em sala, não fez nenhum teste.          |
+| Chegou lá         | 7,1 até 9,0         | Além de implementar o projeto corretamente corretamente, testou ela dentro do contexto do VR. |
+| Foi mais longe    | 9,1 até 10,0        | Fez a implementação de uma animação entre os assets.                                                |
 
 ## Dia 4 - Quinta-feira
 
-***EM CONSTRUÇÃO***
+- Construir o Fliperama/Máquina de vídeo em conjunto: desenvolver em conjunto com o restante da sala, a atividade de construir uma interação com o Fliperama Virtual. Testar a aplicação no VR.
 
-<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/>
+Esta aplicação deve estar dentro do repositório. O valor da atividade é de ***0,5***.
+
+<!-- ***EM CONSTRUÇÃO***
+
+<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/> -->
+
+| Critério      | Pontuação | Descrição                                      |
+|---------------|-----------|-----------------------------------------------|
+| Não deu largada   | 0,0 até 4,0         | Não iniciou a atividade. Ou desenvolveu apenas as interações básicas esperadas para ela, como copiar um template.    |
+| No caminho        | 4,1 até 7,0         | Iniciou a atividade, criou o projeto e apenas seguiu os passos desenvolvidos em sala, não fez nenhum teste.          |
+| Chegou lá         | 7,1 até 9,0         | Além de implementar o projeto corretamente corretamente, testou ela dentro do contexto do VR. |
+| Foi mais longe    | 9,1 até 10,0        | Fez a implementação de uma animação já no VR e documentou o processo.   
 
 ## Dia 5 - Sexta-feira
 
