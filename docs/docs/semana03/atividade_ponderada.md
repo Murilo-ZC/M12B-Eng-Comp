@@ -82,6 +82,17 @@ Esta aplicação deve estar dentro do repositório. O valor da atividade é de *
 
 ## Dia 5 - Sexta-feira
 
-***EM CONSTRUÇÃO***
+<!-- ***EM CONSTRUÇÃO***
 
-<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/>
+<img style={{display:"block", marginLeft: "auto", marginRight: "auto"}} alt="Em Construção" src="https://laughingsquid.com/wp-content/uploads/2018/06/House-Flipper.gif?w=750"/> -->
+
+- Adicionar uma interação com a sua cena criada: adicionar uma interação com a cena que você criou. Descrever a interação no README. Testar a aplicação no VR.
+
+Esta aplicação deve estar dentro do repositório. O valor da atividade é de ***3,5***.
+
+| Critério      | Pontuação | Descrição                                      |
+|---------------|-----------|-----------------------------------------------|
+| Não deu largada   | 0,0 até 4,0         | Não iniciou a atividade. Ou desenvolveu apenas as interações básicas esperadas para ela, como copiar um template.    |
+| No caminho        | 4,1 até 7,0         | Iniciou a atividade, criou o projeto e apenas seguiu os passos desenvolvidos em sala, não fez nenhum teste.          |
+| Chegou lá         | 7,1 até 9,0         | Além de implementar o projeto corretamente corretamente, testou ela dentro do contexto do VR. |
+| Foi mais longe    | 9,1 até 10,0        | Fez a implementação de uma animação já no VR e documentou o processo.   |

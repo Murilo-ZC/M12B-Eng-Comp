@@ -1,0 +1,47 @@
+<!-- Utilizando Física -->
+<html>
+    <head>
+      <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+      <script src="https://unpkg.com/aframe-event-set-component@3.0.3/dist/aframe-event-set-component.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.2/dist/aframe-extras.min.js"></script>
+      <script src="https://unpkg.com/super-hands@^3.0.3/dist/super-hands.min.js"></script>
+      <!-- Física -->
+      <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-physics-system@v4.2.2/dist/aframe-physics-system.min.js"></script>
+    </head>
+    <body>
+        <a-scene physics="gravity:-9.8">
+          <!-- Gerenciamento de Assets do A-Frame -->
+            <a-assets>
+                <img id="chao" src="./assets/Texturelabs_Stone_168L.jpg"/>
+                
+            </a-assets>
+        
+            <a-camera>
+                <a-entity cursor="fuse: true; fuseTimeout:1500"
+                          position="0 0 -1"
+                          geometry="primitive:sphere; radius:0.005"
+                          material="color:#000000; shader: flat; opacity:0.5"
+                          raycaster="objects: .clicaveis"
+                          animation__fusing="property: scale; to: 3 3 3; dur: 1500; startEvents: fusing; easing: linear"
+                          animation__mouseleave="property: scale; to: 1 1 1; dur: 200; startEvents: mouseleave; easing: easeInCubic"></a-entity>
+                </a-entity>
+            </a-camera>
+
+            <a-sky color="#C3C3C3"></a-sky>
+            <a-plane static-body
+                    material="src:#chao"
+                    rotation="-90 0 0"
+                    repeat="5 5"
+                    scale="10 10 1"></a-plane>
+
+            <a-box color="#AA0000" position="-3.5 0.5 -4" static-body></a-box>
+
+            <a-sphere color="#00AA00" position="-1 4 -4" radius="0.5" dynamic-body="mass:5" grabbable></a-sphere>
+
+            <a-sphere color="#FFAA00" position="1 4 -4" radius="0.5" dynamic-body="mass:1" grabbable></a-sphere>
+
+            <a-box color="#00AAFF" position="3.5 2 -4" static-body></a-box>
+
+        </a-scene>
+    </body>
+  </html>
